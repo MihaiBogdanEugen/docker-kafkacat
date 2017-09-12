@@ -1,4 +1,4 @@
-# Docker image running kafkacat (A generic command line non-JVM Apache Kafka producer and consumer) #
+# Docker image running [kafkacat](https://github.com/edenhill/kafkacat) #
 
 ### Supported tags and respective Dockerfile links: ##
 
